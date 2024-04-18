@@ -1,18 +1,33 @@
 ---
 layout: default
 ---
-<!-- Posts -->
-<ul id="posts">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav>
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/about.md">About Me</a></li> <!-- Link to About Me page -->
+            <li><a href="/posts">Posts</a></li> <!-- Link to Posts page -->
+        </ul>
+    </nav>
 
-	{% for post in paginator.posts %}
-
-	  <li class="post">
-	  	<h2><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a></h2>
-	  	<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time>
-	  	<p>{{ post.description | strip_html | truncatewords:40 }}</p>
-	  </li>
-
-    {% endfor %}
-
-</ul>
+    <!-- Posts -->
+    <ul id="posts">
+        {% for post in paginator.posts %}
+            <li class="post">
+                <h2><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a></h2>
+                <time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time>
+                <p>{{ post.description | strip_html | truncatewords:40 }}</p>
+            </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
 

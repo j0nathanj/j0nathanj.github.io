@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<article id="post-page">
+    <center><h2>{{ page.title }}</h2></center>		
+	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
+	<div class="content">
+
+		{{ content }}
+		
+	</div>
+</article>
+
+<style>
+  #container {
+    max-width: 960px;
+  }
+</style>

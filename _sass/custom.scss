@@ -39,7 +39,7 @@ html, body, #wrap {
 }
 
 #header {
-  height: 249px;
+  height: 239px;
 }
 
 footer {
@@ -53,3 +53,5 @@ footer {
 #post-page > h1 {
   text-align: center;
 }
+
+min-height: calc(100% - 239px - 51px);

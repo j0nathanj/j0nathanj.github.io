@@ -3,7 +3,7 @@
 * I've been obsessed with computers since the day I played MapleStory back in Elementary School 🍁
   
 * I started my Computer Science & Mathematics college degree at the *age of 13* and finished it during High School
-  * Finished with 5 dean excellence awards, and graduated Magna Cum Laude
+  * Graduted with 5 dean excellence awards, and Magna Cum Laude
   
 * During High School I worked at [Check Point](https://www.checkpoint.com/) as a Vulnerability Researcher
   * Prior to that, I worked at Shieldren & Covertix, 2 small Startups, during High School Summer Vacations

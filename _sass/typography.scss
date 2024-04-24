@@ -7,10 +7,6 @@ body {
 	font-family: 'Source Sans Pro', sans-serif;
 	letter-spacing: 0.01em;
 }
-code {
-	letter-spacing: 0.01em;
-    font-size: 0.9em;
-}
 
 /*- Typography for medium and small screen, based on 16px font-size -*/
 
@@ -63,7 +59,7 @@ p, ul, ol {
 }
 
 h1 {
-	font-size: 2.2667em; /* 48px/18px */
+	font-size: 2.6667em; /* 48px/18px */
 	line-height: 1em; /* 48px/48px */
 	padding: 0.25em 0; /* 12px/48px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
 }

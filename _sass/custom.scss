@@ -1,0 +1,55 @@
+/*- Custom style -*/
+
+// -- Put custom style under this point -- //
+
+pre.highlight {
+  padding-left: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  overflow-x: auto;
+}
+
+.rouge-code {
+  padding-left: 10px;
+}
+
+.highlight {
+  border-radius: 5px;
+}
+
+code.highlighter-rouge {
+  background-color: #cdd3e5;
+  overflow-wrap: break-word;
+  border-radius: 3px;
+}
+
+.gl {
+
+  /* Stop line numbers being visually selected */
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+html, body, #wrap {
+  height: 100%;
+}
+
+#header {
+  height: 249px;
+}
+
+footer {
+  height: 51px;
+}
+
+#container {
+  min-height: calc(100% - 239px - 51px);
+}
+
+#post-page > h1 {
+  text-align: center;
+}

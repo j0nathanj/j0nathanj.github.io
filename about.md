@@ -1,6 +1,5 @@
 # Background 🖼️  
-
-
+  
 * I've been obsessed with computers since the day I played MapleStory back in Elementary School 🍁
   
 * I started my Computer Science & Mathematics college degree at the *age of 13* and finished it during High School
@@ -26,8 +25,7 @@
 * Currently working at the CTO Office of [Dazz](dazz.io)!
 
 # Conferences & Talks 💬
-
-
+  
 * "[From Zero to Zero Day](https://www.youtube.com/watch?v=xp1YDOtWohw)" - 35C3 - CCC 2018
   * A talk about the journey I had: from being a kid with little-to-none knowledge about vulnerabilities, to finding my own 0day in Microsoft Edge
 * [&#34;Students in Cyber&#34; - TEDxYouth @ WhiteCity](https://www.youtube.com/watch?v=YcjaMki6K1Y)

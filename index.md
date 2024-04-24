@@ -1,3 +1,5 @@
-# [About me 🔎](/about)
+# [About 🔎](/about)
 
-# Blog Posts 📝
+----
+
+# [Blog posts 📝](/posts)

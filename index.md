@@ -1,4 +1,4 @@
-# [About 🔎](/a ut)
+# [About 🔎](/about)
 
 ----
 

@@ -13,7 +13,7 @@ I decided to post this as there are interesting educational & methodological tak
 
 I will walk you through my chain of thought, from the beginning until the end, showing my young self's thinking process that led me to this finding.
 
-*Note: In this post, I will use a vulnerable version of VirtualBox's source code (6.0.4).*
+*Note: In this post I will use a vulnerable version of VirtualBox's source code (6.0.4).*
 
 ## Research Inspiration
 

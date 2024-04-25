@@ -14,13 +14,13 @@
 * Co-Founder of the CTF Team [Perfect Blue](https://perfect.blue/)
   * We were ranked #1 CTF team in the world for 3 years (2020-21, 2023), and have been in the top 10 for the past 6 years!
   * We are an international CTF team founded by a few teenagers from different countries around the world 🌍
-  * Participated in world-renouned CTF events like DEFCON CTF, GoogleCTF, RealWorld CTF, and many more
+  * Participated in world-renouned CTF events like DEFCON CTF, GoogleCTF, RealWorld CTF, and many more!
   
 * I also ocassionally play CTFs with [Pasten](https://twitter.com/pastenctf?lang=en)
   
 * Served in [Unit 8200](https://en.wikipedia.org/wiki/Unit_8200) in various different roles
   * Security Research
-  * Commanded in the most elite cybersecurity courses of the IDF
+  * Commanded in the most elite cybersecurity course of the IDF
   * Deputy Head of Research Section
   
 * Currently working at the CTO Office of [Dazz](dazz.io)!

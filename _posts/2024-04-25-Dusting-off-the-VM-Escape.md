@@ -51,7 +51,7 @@ This research was presented at BlackHat 2009, and already back then they targete
 
 ## *"As-Blackbox-As-Possible"*, or: Vulnerability ASAP.
 
-So my mission was to find a VM escape, as fast as possible.
+So my mission was to find a VM escape, as effectively as possible.
 
 I knew that Niklas (and other VirtualBox researchers) already had scripts & kernel modules that I could use to reach certain areas of the VBVA subsystem.
 

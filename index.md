@@ -2,4 +2,4 @@
 
 ---
 
-# [Blog posts 📝](/post_view)
+# [Blog posts 📝](/posts)

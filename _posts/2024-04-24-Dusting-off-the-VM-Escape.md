@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "How 18-Year-Old Me Discovered a VM Escape Vulnerability"
+title: "How 18-Year-Old Me Discovered a VirtualBox VM Escape Vulnerability"
 date: 2024-04-24 13:37:31
-description: VirtualBox VM Escape Vulnerability - Research Walkthrough 
+description: VirtualBox VM Escape Vulnerability - A Research Walkthrough 
 ---
 # Dusting off the VM: How 18-Year-Old Me Discovered a VM Escape Vulnerability 
 

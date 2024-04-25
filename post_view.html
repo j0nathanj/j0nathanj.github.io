@@ -7,7 +7,7 @@ layout: post
 	{% for post in site.posts %}
 
 	  <li class="post">
-	  	<h1><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.url | prepend: site.baseurl }} haha2</a></h1>
+	  	<h1><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ site.baseurl }} haha3</a></h1>
 	  	<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time>
 	  	<p>{{ post.description }}</p>
 	  </li>

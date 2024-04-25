@@ -2,7 +2,7 @@
   
 * My story with computers dates back to the day I started playing MapleStory back in Elementary School, and I became obsessed! 🍁
   
-* I started my Computer Science & Mathematics college degree at the *age of 13* and finished it during High School
+* I started my Computer Science & Mathematics college degree at the age of 13 and finished it during High School
   * Graduted with 5 dean excellence awards, and Magna Cum Laude
   
 * During High School I worked at [Check Point](https://www.checkpoint.com/) as a Vulnerability Researcher

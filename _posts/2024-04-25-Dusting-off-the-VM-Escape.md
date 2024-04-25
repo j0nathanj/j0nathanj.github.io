@@ -8,8 +8,8 @@ description: VirtualBox VM Escape Vulnerability - A Research Walkthrough
 This blog post showcases a *pretty old* (2019) vulnerability I found in VirtualBox, which allowed a guest-to-host escape.
 
 I have this [tweet](https://twitter.com/j0nathanj/status/1118969024099094528/photo/1) from the day the vulnerability was patched!
-    - *CVE-2019-2703*
-    - In this post, I will use the source code of an older, vulnerable version of VirtualBox (6.0.4).
+   - *CVE-2019-2703*
+   - In this post, I will use the source code of an older, vulnerable version of VirtualBox (6.0.4).
 
 I decided to post this as there are interesting educational & methodological takeaways that could be learned, especially for young researchers.
 

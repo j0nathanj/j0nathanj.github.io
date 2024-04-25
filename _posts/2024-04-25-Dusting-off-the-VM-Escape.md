@@ -13,7 +13,7 @@ In this post, I will use a vulnerable version of VirtualBox (6.0.4).
 
 I decided to post this as there are interesting educational & methodological takeaways that could be learned, especially for young researchers.
 
-I will walk you through my chain of thought, from the beginning until the end, showing my old self's thinking process that led me to this finding.
+I will walk you through my chain of thought, from the beginning until the end, showing my young self's thinking process that led me to this finding.
 
 ## Research Inspiration
 

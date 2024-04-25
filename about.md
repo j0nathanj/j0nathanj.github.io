@@ -19,9 +19,8 @@
 * I also ocassionally play CTFs with [Pasten](https://twitter.com/pastenctf?lang=en)
   
 * Served in [Unit 8200](https://en.wikipedia.org/wiki/Unit_8200) in various different roles
-  * Trainee in the most elite cybersecurity course of the IDF
   * Security Research
-  * Commanded in one of the most elite cybersecurity courses of the IDF
+  * Commanded in the most elite cybersecurity courses of the IDF
   * Deputy Head of Research Section
   
 * Currently working at the CTO Office of [Dazz](dazz.io)!

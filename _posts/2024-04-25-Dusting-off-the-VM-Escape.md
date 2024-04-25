@@ -4,17 +4,16 @@ title: "How 18-Year-Old Me Discovered a VirtualBox VM Escape Vulnerability"
 date: 2024-04-25 13:37:31
 description: VirtualBox VM Escape Vulnerability - A Research Walkthrough 
 ---
-# Dusting off the VM: How 18-Year-Old Me Discovered a VM Escape Vulnerability 
 
 This blog post showcases a *pretty old* (2019) vulnerability I found in VirtualBox, which allowed a guest-to-host escape.
 
-- How old you ask? I have this [tweet](https://twitter.com/j0nathanj/status/1118969024099094528/photo/1) from the day the vulnerability was patched
+- I have this [tweet](https://twitter.com/j0nathanj/status/1118969024099094528/photo/1) from the day the vulnerability was patched!
     - *CVE-2019-2703*
     - In this post, I will use the source code of an older, vulnerable version of VirtualBox (6.0.4).
 
-I decided to post this as I think there are interesting educational & methodological takeaways that could be learned, especially for young researchers.
+I decided to post this as there are interesting educational & methodological takeaways that could be learned, especially for young researchers.
 
-I will try to walk you through my chain of thought, from the beginning until the end, hopefully showing my old self's thinking process - that led me to this finding.
+I will walk you through my chain of thought, from the beginning until the end, showing my old self's thinking process that led me to this finding.
 
 ## Research Inspiration
 

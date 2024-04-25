@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Dusting off the VM: How 18-Year-Old Me Discovered a VM Escape Vulnerability
-date: 2024-04-24 20:00:00.000000000 -07:00
+title: HELLOWORLD123
+date: 2024-04-24 13:37:31
 description: VirtualBox VM Escape Vulnerability - Research Walkthrough 
 ---
-
+Dusting off the VM How 18-Year-Old Me Discovered a VM Escape Vulnerability
 # Dusting off the VM: How 18-Year-Old Me Discovered a VM Escape Vulnerability 
 
 This blog post showcases a *pretty old* (2019) vulnerability I found in VirtualBox, which allowed a guest-to-host escape.

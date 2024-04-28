@@ -179,7 +179,7 @@ A possible way to solve Integer Overflows, is to save the result in a larger-sto
 
 In this case, width and height are both `uint16_t`'s that are saved into a `uint32_t` and multiplied together and saved into a `uint32_t` variable.
 
-In our case, **there's still is a problem** - the 2 values are not the only components in the multiplication, and they are multiplied by 4 - **which means that the result of the two `uint16_t` variables, can now overflow!**.
+In our case, **there's still is a problem** - the 2 values are not the only components in the multiplication, and they are multiplied by 4 - **which means that the result of the two `uint16_t` variables, can now overflow!**
 
 - The reason for the multiplication is that the BPP (bits-per-pixel) used here is 32 (meaning, each pixel uses 4 bytes).
 

@@ -115,7 +115,7 @@ static int8_t crVBoxServerCrCmdClrFillGenericBGRAProcess(const VBOXCMDVBVA_CLRFI
 
 ```
 
-Essentially there are 2 functions that are invoked, with input that is derived guest-controlled data:
+Essentially there are 2 functions that are invoked, with input that is derived from guest-controlled data:
 
 1. `crVBoxServerCrCmdBltRecsUnpack()` - We will not be digging into this one, as the other one is the interesting function for our vulnerability.
 2. `crVBoxServerCrCmdClrFillVramGenericProcess()` - This function tries to fill the VRAM (Video RAM - a memory section that represents the video image, filled with pixels).

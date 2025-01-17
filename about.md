@@ -2,7 +2,7 @@
   
 * My journey with computers began when I started playing MapleStory in elementary school, and it quickly led me to explore game hacking and programming.
 
-* I began my bachelor's degree in Computer Science and Mathematics at the **age of 13 and finished it while still in high school**, graduating Magna Cum Laude with five Dean's Excellence Awards.
+* I began my B.Sc. in Computer Science and Mathematics at the **age of 13 and finished it while still in high school**, graduating Magna Cum Laude with five Dean's Excellence Awards.
 
 * At the age of 16, during my summer vacations, I worked as a **Software Engineer** at Shieldren and Covertix, two small tech startups based in Israel.
 

@@ -19,9 +19,9 @@
 * I also ocassionally participate in CTFs with [Pasten](https://x.com/pastenctf).
   
 * Served in **[Unit 8200](https://en.wikipedia.org/wiki/Unit_8200)** in various roles:
-  * *Course trainee* in the IDF's most elite cybersecurity & research courses. 
-  * *Research:* worked on some of the unit's most cutting-edge research projects.
-  * *Commanded* the IDF's most elite cybersecurity course.
+  * **Course trainee** in the IDF's most elite cybersecurity & research courses. 
+  * **Research:** worked on some of the unit's most cutting-edge research projects.
+  * **Commanded** the IDF's most elite cybersecurity course.
   * *Deputy Head of Research Section:* responsible for the ideation, management and leadership of revolutionary research projects.
 
 * I joined the CTO Office at [Dazz](dazz.io), focusing on product growth by understanding market demands and customer pain points to shape the product's future and maximize its value.

@@ -22,11 +22,11 @@
   * **Course trainee** in the IDF's most elite cybersecurity & research courses. 
   * **Research:** worked on some of the unit's most cutting-edge research projects.
   * **Commanded** the IDF's most elite cybersecurity course.
-  * *Deputy Head of Research Section:* responsible for the ideation, management and leadership of revolutionary research projects.
+  * **Deputy Head of Research Section:** responsible for the ideation, management and leadership of revolutionary research projects.
 
-* I joined the CTO Office at [Dazz](dazz.io), focusing on product growth by understanding market demands and customer pain points to shape the product's future and maximize its value.
+* I joined the **CTO Office** at [Dazz](dazz.io), focusing on product growth by understanding market demands and customer pain points to shape the product's future and maximize its value.
 
-* In December 2024, Dazz got [acquired](https://techcrunch.com/2024/11/21/wiz-acquires-dazz-for-450m-to-expand-its-cybersecurity-platform/) by [Wiz](wiz.io) (🥳). I joined Wiz's CTO Office, continuing my focus on product growth.
+* In December 2024, Dazz got [acquired](https://techcrunch.com/2024/11/21/wiz-acquires-dazz-for-450m-to-expand-its-cybersecurity-platform/) by [Wiz](wiz.io) (🥳). I joined Wiz's **CTO Office**, continuing my focus on product growth.
     * This is where I am right now!
 
 # Conferences, Talks and Other Work 💬

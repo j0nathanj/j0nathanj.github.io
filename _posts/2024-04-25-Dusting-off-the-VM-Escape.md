@@ -285,7 +285,7 @@ void CrMClrFillImg(CR_BLITTER_IMG *pImg, uint32_t cRects, const RTRECT *pRects, 
 
 ```
 
-Looking at this we can see that it just iterates over all of the rectangles that we passed to it, and tries to intersect each one of them with the "whole `Img`"  (referred to as `Rect` in the code above). 
+Looking at this we can see that it just iterates over all of the rectangles that we passed to it, and tries to intersect each one of them with the "whole `Img`"  (referred to as `Rect` in the code above).  
 
 The intersection will basically take the common part between the 2 rectangles, as can be seen:
 
